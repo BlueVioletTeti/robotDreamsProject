@@ -6,9 +6,8 @@ public class Main {
             System.out.print(i + " ");
         }
         System.out.println();
-        for (
-                int i = 1;
-                i <= 100; i++) {
+
+        for (int i = 1; i <= 100; i++) {
             if (i % 2 == 0) {
                 System.out.print(i + " ");
             }
