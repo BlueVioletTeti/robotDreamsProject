@@ -1,4 +1,4 @@
-package com.ua.robot_dreams_project.practice9;
+package com.ua.robot_dreams_project.home_work9_optional;
 
 import java.util.Arrays;
 import java.util.Random;
